@@ -78,17 +78,9 @@
 	</pre>
 
 ### 结果
-- **一万次调用结果**
-![Markdown](https://s1.ax1x.com/2018/07/06/PZMMBF.png)
 
-- **十万次调用结果**
-![Markdown](https://s1.ax1x.com/2018/07/06/PZM3N9.png)
-
-- **一百万次调用结果**
-![Markdown](https://s1.ax1x.com/2018/07/06/PZMY1x.png)
 
 
 
 # Overview
 
-![Markdown](https://s1.ax1x.com/2018/07/06/PZK3SP.png)
